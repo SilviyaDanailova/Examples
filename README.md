@@ -1,2 +1,2 @@
 # Examples
-**Примери C# с Visual Studio**
+**РџСЂРёРјРµСЂРё C# СЃ Visual Studio**
