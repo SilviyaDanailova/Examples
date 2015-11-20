@@ -1,0 +1,6 @@
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.exe.config
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.exe
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.pdb
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.csprojResolveAssemblyReference.cache
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.exe
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.pdb

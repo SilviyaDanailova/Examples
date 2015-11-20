@@ -1,0 +1,5 @@
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\bin\Release\HelloWorld.UI.exe.config
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\bin\Release\HelloWorld.UI.exe
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\bin\Release\HelloWorld.UI.pdb
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\obj\Release\HelloWorld.UI.exe
+D:\aLearn\Examples\HelloWorld\HelloWorld.UI\obj\Release\HelloWorld.UI.pdb
